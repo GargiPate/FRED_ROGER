@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535597228686",
+    "project_id": "roger-ba6ea",
+    "storage_bucket": "roger-ba6ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535597228686:android:22144cc84131ac6c709fdf",
+        "android_client_info": {
+          "package_name": "com.example.fred"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQcHcBBxh0bnT3GLVZs0ufdRddyIuVrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
